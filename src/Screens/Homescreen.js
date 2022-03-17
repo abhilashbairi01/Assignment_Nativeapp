@@ -13,7 +13,7 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 
 const Homescreen = () => {
   const [text, setText] = useState();
-  const [array, setArray] = useState(['Apple', 'banana', 'icecream','abhi','aask']);
+  const [array, setArray] = useState(['Milk', 'Coffee', 'icecream','Oranges','Bread']);
   const [filtered, setFiltered] = useState(array);
   // const [searching, setSearching] = useState(false);
 
